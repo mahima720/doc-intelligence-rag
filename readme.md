@@ -4,6 +4,14 @@ An enterprise-ready Retrieval-Augmented Generation (RAG) system built with **Str
 
 ---
 
+## 🔗 Live Demo
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://doc-intelligence-rag.streamlit.app/)
+
+
+![UI](/images/image1.png)
+![UI](/images/image2.png)
+![UI](/images/image3.png)
+
 ## 🌟 Key Features
 
 * **Multi-Document Ingestion**: Extracts text from multiple PDF documents simultaneously using PyMuPDF (`fitz`).
@@ -165,6 +173,3 @@ Access the web interface at `http://localhost:8501`.
 
 ---
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
