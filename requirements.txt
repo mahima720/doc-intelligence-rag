@@ -1,0 +1,8 @@
+streamlit
+google-genai
+python-dotenv
+langchain
+PyPDF2
+fitz
+faiss-cpu
+PyMuPDF
